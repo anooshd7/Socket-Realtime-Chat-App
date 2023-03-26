@@ -1,0 +1,63 @@
+.landing-img{
+  width: 80vw;
+  z-index: -1;
+  position: absolute;
+  bottom: 0;
+}
+
+html{
+  height: 100%;
+  background-color: #add8e6;
+}
+input{
+  background-color: white;
+}
+h1{
+  font-size: 3rem;
+  font-weight: 600;
+  color: black;
+}
+
+.wrapper{
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ 
+  
+}
+
+.chat{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Buttons{
+  display:inline;
+}
+/* .Login{
+  margin: auto;
+  width: 20%;
+  border: 3px solid green;
+  padding: 10px;
+  
+} */
+
+.button{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
+
+
