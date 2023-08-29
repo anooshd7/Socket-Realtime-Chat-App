@@ -1,6 +1,13 @@
 # Socket-Realtime-Chat-App
 A real-time chat app built using the MERN Stack, Tailwind CSS, and Socket.IO that lets you communicate with your friends in real time, with an interface inspired by the Dumb Ways to Die game.
 
+### Features
+- Real-time chat with multiple users and rooms
+- Join rooms and chat with your friends
+- Animated interface inspired by the Dumb Ways to Die game
+- Responsive design
+
+
 ### Basic Setup
 
 Install all the required packages using npm install.
@@ -11,8 +18,6 @@ Install all the required packages using npm install.
 3. Go to localhost:3000 on your browser to run the application.
 
 
-
-
 ### Technologies Used
 
 - React JS
@@ -21,5 +26,8 @@ Install all the required packages using npm install.
 - Tailwind CSS
 - Socket.IO
 - MongoDB
+
+
+
 
 
